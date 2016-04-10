@@ -44,7 +44,18 @@ a {
   cursor: pointer;
 }
 
+/*mouse pointer*/
+#seznam-uporabnikov div { 
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
 #seznam-kanalov div:hover {
+  background-color: #ddd;
+}
+
+ /*grey background*/
+#seznam-uporabnikov div:hover {
   background-color: #ddd;
 }
 
